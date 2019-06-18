@@ -15,7 +15,8 @@ public class DemoServiceImpl implements DemoService {
             new Employee("E100", "Dan", "SCC"),
             new Employee("E101", "Gok", "ASC"),
             new Employee("E102", "Thar", "RC"),
-            new Employee("E103", "Loka", "PRC")
+            new Employee("E103", "Loka", "PRC"),
+            new Employee("E104", "Dam", "HCC")
     );
 
 
